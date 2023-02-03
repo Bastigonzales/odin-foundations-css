@@ -6,8 +6,7 @@
 }
 
 /* Number Three */
-.odd-numbers-2 {
-  background-color: #f29dab;
+.font-size {
   font-size: 24px;
 }
 
@@ -19,6 +18,5 @@
 
 #two-id {
   background-color: hsl(141, 84%, 65%);
-  font-size: 24px;
   font-weight: bold;
 }
