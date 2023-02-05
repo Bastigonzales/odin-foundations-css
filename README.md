@@ -1,3 +1,3 @@
 # odin-foundations-css
 CSS Exercises by The Odin Project.
-(CSS Methods 01-02) ✅
+(CSS Methods 01-03) ✅
